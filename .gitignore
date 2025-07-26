@@ -1,0 +1,8 @@
+# Abaikan checkpoint Jupyter
+.ipynb_checkpoints/
+
+# Abaikan file config/token pribadi
+.env
+
+# Abaikan file pycache
+__pycache__/
